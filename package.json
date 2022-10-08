@@ -1,7 +1,7 @@
 {
-  "name": "calypso",
+  "name": "droit-info",
   "version": "1.7.0",
-  "description": "A fully customizable bot built with discord.js",
+  "description": "Bot for LDDDI",
   "main": "app.js",
   "dependencies": {
     "ascii-table": "0.0.9",
@@ -25,14 +25,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://sabattle@github.com/sabattle/CalypsoBot.git"
-  },
-  "author": "Sebastian Battle",
+  "author": "Park Tae-Soo",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/sabattle/CalypsoBot/issues"
-  },
-  "homepage": "https://github.com/sabattle/CalypsoBot#readme"
 }
