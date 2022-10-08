@@ -27,4 +27,17 @@
   },
   "author": "Park Tae-Soo",
   "license": "GPL-3.0",
+  "engines": {
+    "node": "16.17.0",
+    "npm": "8.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IHW-TS/DroitInfoBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/IHW-TS/DroitInfoBot/issues"
+  },
+  "homepage": "https://github.com/IHW-TS/DroitInfoBot#readme"
 }
